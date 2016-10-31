@@ -1,0 +1,108 @@
+# Cell allows front end developers the opportunity to write templates without the need to dig through
+# sloppy back-end code. The following documents explains portions of the Cell syntax, but with added
+# line breaks for readability.
+
+# A few notes before continuing.
+#
+# Cell uses the pound sign(#) for comments, but requires they begin the line.
+#
+# Cell supports two bracket types, statement and reserved.
+# The statement bracket type is used to access variables directly
+# from the backend code, and perform various Cell statements/functions.
+#
+# The reserved bracket type gives front end developers access to some
+# commonly used variables/functions without blocking off access to like-named
+# backend variables/functions.
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <title>Example | Cell Template Engine Syntax</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<body>
+
+    # Snippets allow you to save certain blocks of content for latter.
+    # Snippets are denoted by the snip and endsnip statements.
+    {% snip SnipName %}
+        <p> Example snip.</p>
+    {% endsnip %}
+
+    # Cell supports if-then-else statements. These are denoted by the if and endif statements.
+    # The is operator is an equivalent of the equal to operator, however both are
+    # supported by Cell.
+    {% if loaded is false %}
+
+        # The throw statement allows template creators to throw exceptions without
+        # diving into the backend.
+        {% throw "Page loading failed." %}
+
+    {% endif %}
+
+    <div class="user-bar">
+
+    # If you need to grab a variable from a class, or the result of a class's method
+    # you simply do it as such: class.variable_method_name.
+    {% if user.logged_in is true AND user.hasPermission('index.view') %}
+
+        <p>Welcome, <a href="#">user.name</a>.</p>
+
+    {% else %}
+
+        <p><a href="#">Log In</a> or <a href="#">Register</a>.</p>
+
+    {% endif %}
+
+    </div>
+    <header>
+
+        # To simply output the value of a method and/or variable simply type the variable,
+        # or method's name inside the template brackets.
+        <h1>{% index_header %}</h1>
+
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">Nav Item</a>
+                </li>
+                <li>
+                    <a href="#">Nav Item</a>
+                </li>
+                <li>
+                    <a href="#">Nav Item</a>
+                    <ul>
+
+                        # Cell supports for statements. These are denoted by the for and endfor
+                        # statements.
+                        {% for i in nav_drop %}
+
+                            # To access values of an array simply do so by typing "array_name.identifier".
+                            <li><a href="{{ i.link }}">{{ i.text }}</a></li>
+
+                        {% endfor %}
+
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Nav Item</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="content">
+            # Cell supports inclusion using the insert statement. The insert statement has directory support.
+            {% insert content/index-content.cell %}
+        </div>
+    </main>
+    <footer>
+        # If you use snippets, simply add them into the template using the insert statement.
+        {% insert SnipName %}
+
+        # Cell has some built-in variables available to template authors. These are accessed using the
+        # reserved tags({{ }}).
+        <p class="copy">Copyright &copy; {{ year }} Daniel Vidmar. All rights reserved.</p>
+    </footer>
+</body>
+</html>

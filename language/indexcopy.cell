@@ -1,0 +1,19 @@
+# Denotes that this template file should be a child of another.
+{% copy index %}
+
+# Note: Child template files are able to override elements of parent files. Simply write
+# the override({% override %}) statement above any elements you wish to override. If no
+# override statement is found, the whole element of the parent file is replaced.
+
+# This method of overriding will override the entire element of the parent template file.
+# Note: The override statement is optional.
+{% override %}
+<header>
+    <p>No navigation bar here folks.</p>
+</header>
+
+#This method of overriding will only override the elements that are marked with "{% override %}"
+<header>
+    {% override %}
+    <h1>Some text to override the h1 tag with.</h1>
+</header>
