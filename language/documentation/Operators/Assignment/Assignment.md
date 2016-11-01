@@ -1,8 +1,7 @@
 Assignment Operators
 ===============
-Cell supports the use of operators to manipulate various variables. Cell's operators are separated into different
-operator type groups based on the operation they perform. These groups are Arithmetic, Comparison, Logical, and
-Miscellaneous.
+Assignment operators are used to reassign a value to a variable. Some assignment variables perform an operation on a value
+before assigning the result to a variable.
 
 Navigation
 ---------------
