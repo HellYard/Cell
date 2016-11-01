@@ -8,11 +8,11 @@ Navigation
 ---------------
 - [Arithmetic](Arithmetic/Arithmetic.md)
   - [Addition](Arithmetic/Addition.md)
-  - [Deletion](Arithmetic/Deletion.md)
   - [Division](Arithmetic/Division.md)
+  - [Exponential](Arithmetic/Exponential.md)
   - [Multiplication](Arithmetic/Multiplication.md)
-  - [Power](Arithmetic/Power.md)
   - [Remainder](Arithmetic/Remainder.md)
+  - [Subtraction](Arithmetic/Subtraction.md)
 - [Assignment[(Assignment/Assignment.md)
   - [AS](Assignment/AS.md)
 - [Comparison](Comparison/Comparison.md)
