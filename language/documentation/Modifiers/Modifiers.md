@@ -1,13 +1,14 @@
 Modifiers
 ===============
-Cell supports the use of something called "modifies" for variables. They provide extra formatting option for variables
-without the need for added backend code. This allows you to format variables without the extra work.
+Cell supports the use of something called "modifies" for variables and expressions. They provide extra formatting
+option for the values of variables and expressions without the need for added backend code. This allows you to
+format variables without the extra work.
 
 Syntax
 -------------
-Modifiers are used by simply adding a space after the variable in a statement. You may use multiple modifiers by
-concatenating them with a ","(comma) character. Some modifiers allow for parameters, these are denoted by adding an
-"="(equals) sign after the modifier name followed by the parameters(again concatenated with a ","(comma)).
+Modifiers are used by simply adding a space after the variable or expression in a statement. You may use multiple
+modifiers by concatenating them with a ","(comma) character. Some modifiers allow for parameters, these are denoted
+by adding an "="(equals) sign after the modifier name followed by the parameters(again concatenated with a ","(comma)).
 
 ```
 Backend:

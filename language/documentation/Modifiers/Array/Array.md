@@ -1,6 +1,6 @@
 Array Modifiers
 ===============
-Array Modifiers are modifiers that can only be applied to array variable.
+Array Modifiers are modifiers that can only be applied to array values.
 
 Navigation
 ---------------

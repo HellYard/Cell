@@ -1,6 +1,6 @@
 Split Modifier
 ==================
-The Split Modifier transforms a string variable into an array by means of splitting it into indexes at the delimiter.
+The Split Modifier transforms a string into an array by means of splitting it into indexes at the delimiter.
 
 Arguments
 --------------

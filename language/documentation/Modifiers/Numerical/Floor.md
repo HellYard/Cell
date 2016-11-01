@@ -1,7 +1,7 @@
 Floor Modifier
 ==================
-The Floor Modifier transforms a numerical(double, or float) variable into the largest integer that is less than or
-equal to the variable's value.
+The Floor Modifier transforms a numerical precision value into the largest integer that is less than or
+equal to the value being modified.
 
 Syntax
 --------------

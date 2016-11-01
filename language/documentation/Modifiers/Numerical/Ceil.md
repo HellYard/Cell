@@ -1,7 +1,7 @@
 Ceil Modifier
 ==================
-The Ceil Modifier transforms a numerical(double, or float) variable into the smallest integer that is greater than or
-equal to the variable's value.
+The Ceil Modifier transforms a numerical precision value into the smallest integer that is greater than or
+equal to the value being modified.
 
 Syntax
 --------------

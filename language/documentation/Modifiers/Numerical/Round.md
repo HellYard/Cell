@@ -1,6 +1,6 @@
 Round Modifier
 ==================
-The Round Modifier rounds a numerical value. If used on a non-precision variable type the variable is rounded to the
+The Round Modifier rounds a numerical value. If used on a non-precision values the variable is rounded to the
 nearest five, otherwise it's rounded to the nearest tenths place by default.
 
 Arguments

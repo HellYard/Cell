@@ -1,6 +1,6 @@
 Numerical Modifiers
 ===============
-Numerical Modifiers are modifiers that can only be applied to numerical variable types.
+Numerical Modifiers are modifiers that can only be applied to numerical values.
 
 Navigation
 ---------------

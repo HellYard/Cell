@@ -1,6 +1,6 @@
 JSON Modifier
 ==================
-The JSON Modifier transforms an array variable into a JSON-friendly string.
+The JSON Modifier transforms an array value into a JSON-friendly string.
 
 Syntax
 --------------

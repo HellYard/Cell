@@ -1,6 +1,6 @@
 Join Modifier
 ==================
-The Join Modifier transforms an array variable into a string concatenated by a string.
+The Join Modifier transforms an array value into a string concatenated by a string.
 
 Arguments
 --------------

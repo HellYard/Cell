@@ -1,6 +1,6 @@
 Escape Modifier
 ==================
-The Escape Modifier escapes a string variable type to be query safe.
+The Escape Modifier escapes a string to be query safe.
 
 Syntax
 --------------

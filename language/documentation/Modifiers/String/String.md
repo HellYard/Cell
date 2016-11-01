@@ -1,6 +1,6 @@
 String Modifiers
 ===============
-String Modifiers are modifiers that can only be applied to text-based variable types.
+String Modifiers are modifiers that can only be applied to string values.
 
 Navigation
 ---------------

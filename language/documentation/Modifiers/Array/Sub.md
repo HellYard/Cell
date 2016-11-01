@@ -1,6 +1,6 @@
 Sub Modifier
 ==================
-The Sub Modifier returns an array with the specified start and end of an array variable.
+The Sub Modifier returns an array with the specified start and end of an array value.
 
 Arguments
 --------------
