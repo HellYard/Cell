@@ -1,7 +1,7 @@
-Tag Types
+Tags
 ===============
-Part of Cell's functionality comes from the use of various tag types. The use of multiple tag types
-enables us to keep the syntax as minimal and clean as possible.
+Tags denote that Cell should parse a section of a template file. Part of Cell's functionality comes from the use of
+various tag types. The use of multiple tag types enables us to keep the syntax as minimal and clean as possible.
 
 Navigation
 ---------------

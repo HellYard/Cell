@@ -102,7 +102,7 @@
 
         # Cell has some built-in variables available to template authors. These are accessed using the
         # reserved tags({{ }}).
-        <p class="copy">Copyright &copy; {{ year }} Daniel Vidmar. All rights reserved.</p>
+        <p class="copy">Copyright &copy; {{ date.year }} Daniel Vidmar. All rights reserved.</p>
     </footer>
 </body>
 </html>
