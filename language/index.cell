@@ -58,7 +58,7 @@
     <header>
 
         # To simply output the value of a method and/or variable simply type the variable,
-        # or method's name inside the template brackets.
+        # or method's name inside the template tags.
         <h1>{% index_header %}</h1>
 
         <nav>

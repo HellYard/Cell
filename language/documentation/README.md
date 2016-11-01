@@ -9,30 +9,30 @@ as possible. Unlike other languages Cell aims to provide a powerful feature set 
 
 Navigation
 ---------------
-- [Brackets](Undocumented.md)
-  - [Comment](Undocumented.md) {* *}
-  - [Statement](Undocumented.md) {% %}
-  - [Escape](Undocumented.md) {! !}
-  - [Reserved](Undocumented.md) {{ }}
+- [Tags](Tags/Tags.md)
+  - [Comment](Tags/Comment.md) {* *}
+  - [Escape](Tags/Escape.md) {% %}
+  - [Reserved](Tags/Reserved.md) {! !}
+  - [Statement](Tags/Statement.md) {{ }}
 - [Variables](Undocumented.md)
-  - [Modifiers](Undocumented.md)
   - [Defined](Undocumented.md)
+  - [Modifiers](Undocumented.md)
   - [Reserved](Undocumented.md)
 - [Operators](Undocumented.md)
   - [Arithmetic](Undocumented.md)
-  - [Logical](Undocumented.md)
   - [Comparison](Undocumented.md)
+  - [Logical](Undocumented.md)
   - [Miscellaneous](Undocumented.md)
 - [Statements](Undocumented.md)
-  - [if-else-then](Undocumented.md)
+  - [copy](Undocumented.md)
   - [empty](Undocumented.md)
-  - [where](Undocumented.md)
+  - [eval](Undocumented.md)
+  - [for](Undocumented.md)
+  - [if-else-then](Undocumented.md)
+  - [insert](Undocumented.md)
+  - [override](Undocumented.md)
+  - [raw](Undocumented.md)
+  - [sinsert](Undocumented.md)
   - [snip](Undocumented.md)
   - [throw](Undocumented.md)
-  - [for](Undocumented.md)
-  - [insert](Undocumented.md)
-  - [sinsert](Undocumented.md)
-  - [copy](Undocumented.md)
-  - [override](Undocumented.md)
-  - [eval](Undocumented.md)
-  - [raw](Undocumented.md)
+  - [where](Undocumented.md)
