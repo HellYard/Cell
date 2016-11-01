@@ -9,6 +9,10 @@
 # Note: The override statement is optional.
 {% override %}
 <header>
+    {% for header in headers where header.name not "hidden" %}
+        <h3>{% header.name lower,escape,trim %}</h3>
+    {% empty "No headers to display." %}
+    {% endfor %}
     <p>No navigation bar here folks.</p>
 </header>
 
