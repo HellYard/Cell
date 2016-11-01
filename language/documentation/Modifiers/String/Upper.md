@@ -1,6 +1,6 @@
-Uppercase Modifier
+Upper Modifier
 ==================
-The Uppercase Modifier returns the string with all uppercase characters.
+The Upper Modifier returns the string with all uppercase characters.
 
 Syntax
 --------------
@@ -11,6 +11,6 @@ Backend:
 ?>
 
 Frontend:
-{% str uppercase %}
+{% str upper %}
 {* Outputs: EXAMPLE STRING *}
 ```

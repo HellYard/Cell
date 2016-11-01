@@ -1,6 +1,6 @@
-Lowercase Modifier
+Lower Modifier
 ==================
-The Lowercase Modifier returns the string with all lowercase characters.
+The Lower Modifier returns the string with all lowercase characters.
 
 Syntax
 --------------
@@ -11,6 +11,6 @@ Backend:
 ?>
 
 Frontend:
-{% str lowercase %}
+{% str lower %}
 {* Outputs: example string *}
 ```

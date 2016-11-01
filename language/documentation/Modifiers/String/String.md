@@ -6,7 +6,7 @@ Navigation
 ---------------
 - [Escape](String/Escape.md)
 - [Split](String/Split.md)
-- [Lowercase](String/Lowercase.md)
+- [Lower](String/Lower.md)
 - [Trim](String/Trim.md)
-- [Uppercase](String/Uppercase.md)
+- [Upper](String/Upper.md)
 - [UpperFirst](String/UpperFirst.md)
