@@ -44,7 +44,7 @@ Navigation
     - [Multiplication](Operators/Arithmetic/Multiplication.md)
     - [Remainder](Operators/Arithmetic/Remainder.md)
     - [Subtraction](Operators/Arithmetic/Subtraction.md)
-  - [Assignment[(Operators/Assignment/Assignment.md)
+  - [Assignment](Operators/Assignment/Assignment.md)
     - [AS](Operators/Assignment/AS.md)
   - [Comparison](Operators/Comparison/Comparison.md)
     - [IS](Operators/Comparison/IS.md)
