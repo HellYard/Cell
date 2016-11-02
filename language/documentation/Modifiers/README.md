@@ -33,17 +33,17 @@ Hello, {% hello uppercase,trim %}
 
 Navigation
 ---------------
-- [Array](Array/Array.md)
+- [Array](Array/README.md)
   - [JSON](Array/JSON.md)
   - [Join](Array/Join.md)
   - [Sub](Array/Sub.md)
-- [Numerical](Numerical/Numerical.md)
+- [Numerical](Numerical/README.md)
   - [Ceil](Numerical/Ceil.md)
   - [Datify](Numerical/Datify.md)
   - [Floor](Numerical/Floor.md)
   - [Pad](Numerical/Pad.md)
   - [Round](Numerical/Round.md)
-- [String](String/String.md)
+- [String](String/README.md)
   - [Escape](String/Escape.md)
   - [Split](String/Split.md)
   - [Lower](String/Lower.md)
