@@ -11,8 +11,8 @@ Navigation
 ---------------
 - [Tags](Tags/Tags.md)
   - [Comment](Tags/Comment.md) {* *}
-  - [Escape](Tags/Escape.md) {{! !}
-  - [Reserved](Tags/Reserved.md) {{{ }}
+  - [Escape](Tags/Escape.md) {! !}
+  - [Reserved](Tags/Reserved.md) {{ }}
   - [Statement](Tags/Statement.md) {% %}
 - [Variables](Variables/Variables.md)
   - [Defined](Variables/Defined.md)
