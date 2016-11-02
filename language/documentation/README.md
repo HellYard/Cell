@@ -11,9 +11,9 @@ Navigation
 ---------------
 - [Tags](Tags/Tags.md)
   - [Comment](Tags/Comment.md) {* *}
-  - [Escape](Tags/Escape.md) {% %}
-  - [Reserved](Tags/Reserved.md) {! !}
-  - [Statement](Tags/Statement.md) {{ }}
+  - [Escape](Tags/Escape.md) {{! !}
+  - [Reserved](Tags/Reserved.md) {{{ }}
+  - [Statement](Tags/Statement.md) {% %}
 - [Variables](Variables/Variables.md)
   - [Defined](Variables/Defined.md)
   - [Reserved](Variables/Reserved.md)
@@ -57,14 +57,14 @@ Navigation
     - [Null Coalescing](Operators/Miscellaneous/NullCoalescing.md)
     - [Ternary](Operators/Miscellaneous/Ternary.md)
 - [Statements](Statements/Statements.md)
-  - [copy](Statements/Copy.md)
-  - [def](Statements/Def.md)
-  - [empty](Statements/Empty.md)
-  - [for](Statements/For.md)
-  - [if-else-then](Statements/IfElseThen.md)
-  - [insert](Statements/Insert.md)
-  - [override](Statements/Override.md)
-  - [sinsert](Statements/SInsert.md)
-  - [snip](Statements/Snip.md)
-  - [throw](Statements/Throw.md)
-  - [where](Statements/Where.md)
+  - [Copy](Statements/Copy.md)
+  - [Def](Statements/Def.md)
+  - [Empty](Statements/Empty.md)
+  - [For](Statements/For.md)
+  - [If-Else-Then](Statements/IfElseThen.md)
+  - [Insert](Statements/Insert.md)
+  - [Override](Statements/Override.md)
+  - [Sinsert](Statements/SInsert.md)
+  - [Snip](Statements/Snip.md)
+  - [Throw](Statements/Throw.md)
+  - [Where](Statements/Where.md)
