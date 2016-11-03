@@ -63,6 +63,7 @@ Navigation
   - [For](Statements/For.md)
   - [If-Else-Then](Statements/IfElseThen.md)
   - [Insert](Statements/Insert.md)
+  - [Iterate](Statements/Iterate.md)
   - [Override](Statements/Override.md)
   - [Sinsert](Statements/SInsert.md)
   - [Snip](Statements/Snip.md)

@@ -10,6 +10,7 @@ Navigation
 - [For](For.md)
 - [If-Else-Then](IfElseThen.md)
 - [Insert](Insert.md)
+- [Iterate](Iterate.md)
 - [Override](Override.md)
 - [Sinsert](SInsert.md)
 - [Snip](Snip.md)
