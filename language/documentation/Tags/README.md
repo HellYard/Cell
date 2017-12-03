@@ -9,4 +9,4 @@ Navigation
 - [Escape](Escape.md) {! !}
 - [Reserved](Reserved.md) {{ }}
 - [Statement](Statement.md) {% %}
-- [Syntax](Tags/Syntax.md) {` `}
+- [Syntax](Syntax.md) {` `}
