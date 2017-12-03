@@ -4,8 +4,8 @@ The contents of this directory are meant to help front end developers that wish 
 
 About
 ---------------
-Cell is a template engine written in PHP. It was designed to be dynamic, fast, and powerful while remaining as lightweight
-as possible. Unlike other languages Cell aims to provide a powerful feature set with a minimalist-style syntax.
+Cell is a template engine written in Go. It was designed to be dynamic, fast, and powerful while remaining as lightweight
+as possible. Cell aims to provide a powerful feature set with a minimalist-style syntax.
 
 Navigation
 ---------------
