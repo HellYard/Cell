@@ -14,12 +14,13 @@ Navigation
   - [Escape](Tags/Escape.md) {! !}
   - [Reserved](Tags/Reserved.md) {{ }}
   - [Statement](Tags/Statement.md) {% %}
+  - [Syntax](Tags/Syntax.md) {` `}
 - [Variables](Variables/README.md)
   - [Defined](Variables/Defined.md)
   - [Reserved](Variables/Reserved.md)
-    - [Cache](Reserved/Cache.md)
-    - [Date](Reserved/Date.md)
-    - [IPCache](Reserved/IPCache.md)
+    - [Cache](Variables/Reserved/Cache.md)
+    - [Date](Variables/Reserved/Date.md)
+    - [IPCache](Variables/Reserved/IPCache.md)
 - [Modifiers](Modifiers/README.md)
   - [Array](Array/README.md)
     - [JSON](Array/JSON.md)

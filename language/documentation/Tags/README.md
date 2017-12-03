@@ -6,6 +6,7 @@ various tag types. The use of multiple tag types enables us to keep the syntax a
 Navigation
 ---------------
 - [Comment](Comment.md) {* *}
-- [Statement](Statement.md) {% %}
 - [Escape](Escape.md) {! !}
 - [Reserved](Reserved.md) {{ }}
+- [Statement](Statement.md) {% %}
+- [Syntax](Tags/Syntax.md) {` `}
