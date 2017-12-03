@@ -15,3 +15,9 @@ Example
 {* We use the date reserved variable to output the current year, for our copyright notice. *}
 <p> Copyright &copy; {{ date.year }} Daniel Vidmar. All rights reserved.</p>
 ```
+
+Navigation
+---------------
+- [Cache](Reserved/Cache.md)
+- [Date](Reserved/Date.md)
+- [IPCache](Reserved/IPCache.md)

@@ -7,4 +7,6 @@ Navigation
 ---------------
 - [Defined](Defined.md)
 - [Reserved](Reserved.md)
-  - [Date](Reserved/Date.md)
+    - [Cache](Reserved/Cache.md)
+    - [Date](Reserved/Date.md)
+    - [IPCache](Reserved/IPCache.md)
