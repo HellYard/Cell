@@ -18,7 +18,7 @@ Navigation
 - [Comparison](Comparison/README.md)
   - [IS](Comparison/IS.md)
   - [NOT](Comparison/NOT.md)
-  - [SUB](Miscellaneous/SUB.md)
+  - [SUB](Comparison/SUB.md)
 - [Logical](Logical/README.md)
   - [AND](Logical/AND.md)
   - [OR](Logical/OR.md)

@@ -52,7 +52,7 @@ Navigation
   - [Comparison](Operators/Comparison/README.md)
     - [IS](Operators/Comparison/IS.md)
     - [NOT](Operators/Comparison/NOT.md)
-    - [SUB](Operators/Miscellaneous/SUB.md)
+    - [SUB](Operators/Comparison/SUB.md)
   - [Logical](Operators/Logical/README.md)
     - [AND](Operators/Logical/AND.md)
     - [OR](Operators/Logical/OR.md)
