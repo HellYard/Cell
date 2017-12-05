@@ -13,7 +13,7 @@ Navigation
   - [Multiplication](Arithmetic/Multiplication.md)
   - [Remainder](Arithmetic/Remainder.md)
   - [Subtraction](Arithmetic/Subtraction.md)
-- [Assignment[(Assignment/README.md)
+- [Assignment](Assignment/README.md)
   - [AS](Assignment/AS.md)
 - [Comparison](Comparison/README.md)
   - [IS](Comparison/IS.md)

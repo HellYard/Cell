@@ -14,7 +14,7 @@ Navigation
   - [Escape](Tags/Escape.md) {! !}
   - [Reserved](Tags/Reserved.md) {{ }}
   - [Statement](Tags/Statement.md) {% %}
-  - [Syntax](Tags/Syntax.md) {` `}
+  - [Syntax](Tags/Syntax.md) {\` \`}
 - [Variables](Variables/README.md)
   - [Defined](Variables/Defined.md)
   - [Reserved](Variables/Reserved.md)
@@ -26,6 +26,9 @@ Navigation
     - [JSON](Array/JSON.md)
     - [Split](Array/Split.md)
     - [Sub](Array/Sub.md)
+  - [Generic](Generic/README.md)
+    - [Ignore](Generic/Ignore.md)
+    - [Default](Generic/Default.md)
   - [Numerical](Modifiers/Numerical/README.md)
     - [Ceil](Modifiers/Numerical/Ceil.md)
     - [Datify](Modifiers/Numerical/Datify.md)

@@ -4,8 +4,8 @@ Numerical Modifiers are modifiers that can only be applied to numerical values.
 
 Navigation
 ---------------
-- [Ceil](Numerical/Ceil.md)
-- [Datify](Numerical/Datify.md)
-- [Floor](Numerical/Floor.md)
-- [Pad](Numerical/Pad.md)
-- [Round](Numerical/Round.md)
+- [Ceil](Ceil.md)
+- [Datify](Datify.md)
+- [Floor](Floor.md)
+- [Pad](Pad.md)
+- [Round](Round.md)
